@@ -1,0 +1,15 @@
+C:\Users\deniz\OneDrive\Masaüstü\OkulYonetimUygulamasiG040-Temel\OkulYonetimUygulmasi\OkulYonetimUygulmasi\bin\Debug\net5.0\OkulYonetimUygulmasi.exe
+C:\Users\deniz\OneDrive\Masaüstü\OkulYonetimUygulamasiG040-Temel\OkulYonetimUygulmasi\OkulYonetimUygulmasi\bin\Debug\net5.0\OkulYonetimUygulmasi.deps.json
+C:\Users\deniz\OneDrive\Masaüstü\OkulYonetimUygulamasiG040-Temel\OkulYonetimUygulmasi\OkulYonetimUygulmasi\bin\Debug\net5.0\OkulYonetimUygulmasi.runtimeconfig.json
+C:\Users\deniz\OneDrive\Masaüstü\OkulYonetimUygulamasiG040-Temel\OkulYonetimUygulmasi\OkulYonetimUygulmasi\bin\Debug\net5.0\OkulYonetimUygulmasi.runtimeconfig.dev.json
+C:\Users\deniz\OneDrive\Masaüstü\OkulYonetimUygulamasiG040-Temel\OkulYonetimUygulmasi\OkulYonetimUygulmasi\bin\Debug\net5.0\OkulYonetimUygulmasi.dll
+C:\Users\deniz\OneDrive\Masaüstü\OkulYonetimUygulamasiG040-Temel\OkulYonetimUygulmasi\OkulYonetimUygulmasi\bin\Debug\net5.0\OkulYonetimUygulmasi.pdb
+C:\Users\deniz\OneDrive\Masaüstü\OkulYonetimUygulamasiG040-Temel\OkulYonetimUygulmasi\OkulYonetimUygulmasi\obj\Debug\net5.0\OkulYonetimUygulmasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz\OneDrive\Masaüstü\OkulYonetimUygulamasiG040-Temel\OkulYonetimUygulmasi\OkulYonetimUygulmasi\obj\Debug\net5.0\OkulYonetimUygulmasi.AssemblyInfoInputs.cache
+C:\Users\deniz\OneDrive\Masaüstü\OkulYonetimUygulamasiG040-Temel\OkulYonetimUygulmasi\OkulYonetimUygulmasi\obj\Debug\net5.0\OkulYonetimUygulmasi.AssemblyInfo.cs
+C:\Users\deniz\OneDrive\Masaüstü\OkulYonetimUygulamasiG040-Temel\OkulYonetimUygulmasi\OkulYonetimUygulmasi\obj\Debug\net5.0\OkulYonetimUygulmasi.csproj.CoreCompileInputs.cache
+C:\Users\deniz\OneDrive\Masaüstü\OkulYonetimUygulamasiG040-Temel\OkulYonetimUygulmasi\OkulYonetimUygulmasi\obj\Debug\net5.0\OkulYonetimUygulmasi.dll
+C:\Users\deniz\OneDrive\Masaüstü\OkulYonetimUygulamasiG040-Temel\OkulYonetimUygulmasi\OkulYonetimUygulmasi\obj\Debug\net5.0\refint\OkulYonetimUygulmasi.dll
+C:\Users\deniz\OneDrive\Masaüstü\OkulYonetimUygulamasiG040-Temel\OkulYonetimUygulmasi\OkulYonetimUygulmasi\obj\Debug\net5.0\OkulYonetimUygulmasi.pdb
+C:\Users\deniz\OneDrive\Masaüstü\OkulYonetimUygulamasiG040-Temel\OkulYonetimUygulmasi\OkulYonetimUygulmasi\obj\Debug\net5.0\OkulYonetimUygulmasi.genruntimeconfig.cache
+C:\Users\deniz\OneDrive\Masaüstü\OkulYonetimUygulamasiG040-Temel\OkulYonetimUygulmasi\OkulYonetimUygulmasi\obj\Debug\net5.0\ref\OkulYonetimUygulmasi.dll
